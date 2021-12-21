@@ -1,0 +1,32 @@
+﻿Build started 12/10/2021 3:05:11 PM.
+     1>Project "c:\Users\Desktop\documents\visual studio 2010\Projects\file_dialog\file_dialog\file_dialog.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\file_dialog.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\file_dialog.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt file_dialogDlg.cpp
+         file_dialogDlg.cpp
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\desktop\documents\visual studio 2010\Projects\file_dialog\Debug\file_dialog.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\file_dialog.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\desktop\documents\visual studio 2010\Projects\file_dialog\Debug\file_dialog.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\desktop\documents\visual studio 2010\Projects\file_dialog\Debug\file_dialog.lib" /MACHINE:X86 Debug\file_dialog.res
+         Debug\file_dialog.exe.embed.manifest.res
+         Debug\file_dialog.obj
+         Debug\file_dialogDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\file_dialog.exe.embed.manifest" /manifest Debug\file_dialog.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         file_dialog.vcxproj -> c:\users\desktop\documents\visual studio 2010\Projects\file_dialog\Debug\file_dialog.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\file_dialog.unsuccessfulbuild".
+         Touching "Debug\file_dialog.lastbuildstate".
+     1>Done Building Project "c:\Users\Desktop\documents\visual studio 2010\Projects\file_dialog\file_dialog\file_dialog.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.59
